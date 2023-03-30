@@ -108,3 +108,14 @@ git tag [version]
 ```
 git push origin [version]
 ```
+
+### Screenshots
+
+![Light - Listview](assets/screenshots/1.png?raw=true)
+![Light - Gridview](assets/screenshots/2.png?raw=true)
+![Dark - Listview](assets/screenshots/3.png?raw=true)
+![Dark - Gridview](assets/screenshots/4.png?raw=true)
+![Light - Skeleton Listview](assets/screenshots/5.png?raw=true)
+![Light - Skeleton Gridview](assets/screenshots/6.png?raw=true)
+![Dark - Skeleton Listview](assets/screenshots/7.png?raw=true)
+![Dark - Skeleton Gridview](assets/screenshots/8.png?raw=true)
