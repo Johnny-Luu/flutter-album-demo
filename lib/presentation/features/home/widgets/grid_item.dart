@@ -54,7 +54,7 @@ class GridItem extends StatelessWidget {
                 const SizedBox(height: 4),
                 Text(
                   data.email,
-                  maxLines: 3,
+                  maxLines: 2,
                   overflow: TextOverflow.ellipsis,
                   style: Theme.of(context).textTheme.displaySmall,
                 ),

@@ -15,10 +15,6 @@ class ListViewSkeleton extends StatelessWidget {
         SizedBox(height: 12),
         ListItemSkeleton(),
         SizedBox(height: 12),
-        ListItemSkeleton(),
-        SizedBox(height: 12),
-        ListItemSkeleton(),
-        SizedBox(height: 12),
       ],
     );
   }

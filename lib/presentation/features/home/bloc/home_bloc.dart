@@ -50,6 +50,7 @@ class HomeBloc extends BaseBloc<HomeEvent, HomeState> {
           listData: [],
         ),
       );
+      add(LoadAlbumListEvent((state.currentPage + 1).toString()));
     } else if (event is LoadAlbumListEvent) {
       await makeApiRequest(
         emit,
