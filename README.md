@@ -44,7 +44,7 @@ flutter run
  ┣ 📂application                <--- application layer
  ┃ ┣ 📂repositories             <--- abstract repo, application business
  ┃ ┣ 📂usecases                 <--- business usecases
- ┣ 📂config                      <--- external's resource config
+ ┣ 📂config                     <--- external's resource config
  ┣ 📂data                       <--- data layer
  ┃ ┣ 📂api                      <--- api client
  ┃ ┣ 📂datasources              <--- local/remote/etc data sources
@@ -71,7 +71,7 @@ flutter run
  ┣ 📂data                       <--- data's test cases
  ┃ ┣ 📂datasources
  ┃ ┗ 📂models
- ┣ 📂fixtures                    <--- mock Json data
+ ┣ 📂fixtures                   <--- mock Json data
  ┃ ┣ 📂users
  ┣ 📂infrastructure             <--- infrastructure's test cases
  ┃ ┗ 📂repositories
