@@ -1,7 +1,6 @@
 import 'package:album_demo/domain/constants/app_size.dart';
 import 'package:album_demo/domain/constants/images.dart';
 import 'package:album_demo/domain/entities/user/user.dart';
-import 'package:album_demo/presentation/base/route/route.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';

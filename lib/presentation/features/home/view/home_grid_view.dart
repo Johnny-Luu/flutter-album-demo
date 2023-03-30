@@ -1,5 +1,4 @@
 import 'package:album_demo/domain/entities/user/user.dart';
-import 'package:album_demo/presentation/base/route/route.dart';
 import 'package:album_demo/presentation/features/home/widgets/grid_item.dart';
 import 'package:album_demo/presentation/features/home/widgets/grid_item_skeleton.dart';
 import 'package:flutter/material.dart';
