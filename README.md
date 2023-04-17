@@ -9,6 +9,7 @@ A Flutter project for visualizing user's data from an external resource, consist
 - Loading skeleton.
 - Auto load more.
 - Auto refresh.
+- Caching data for offline mode.
 
 ### How to run (v3.7.3 - Channel stable)
 
@@ -25,6 +26,7 @@ flutter pub run build_runner build --delete-conflicting-outputs
 ```
 
 3/ Make sure you have connected to at least 1 emulator
+
 4/ Run:
 
 ```
